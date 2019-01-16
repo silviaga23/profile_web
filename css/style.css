@@ -63,6 +63,9 @@ h1, h2{
 header h2, footer{
     color: #eee;
 }
+footer{
+    padding-bottom: 5px;
+}
 
 header img{
     max-width: 100%;
@@ -135,6 +138,7 @@ ul {
     display: block;
     width: 250px;
     height: 250px;
+    padding: 5px;
 }
 
 .conteiner_five img{
