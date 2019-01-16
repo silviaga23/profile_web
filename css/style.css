@@ -283,7 +283,7 @@ span {
     text-align: center;
 }    
 .article_item:hover{
-    box-shadow: 0px 10px 30px 0px rgba(78, 78, 78, 0.555);
+    box-shadow: 0px 10px 30px 0px #4e4e4e8e;
     border-color: #fff; 
 }
 .article_item a{
@@ -293,3 +293,52 @@ span {
 .article_item img{
     padding: 1rem;
 }
+.progress{
+    width: 100%;
+    height: 1.5rem;
+}
+.progress-bar-1{
+    width: 75%;
+    background-color: #0303038e;
+}
+.progress-bar-2{
+    width: 68%;
+    background-color: #0303038e;
+}
+.progress-bar-3{
+    width: 65%;
+    background-color: #0303038e;
+}
+.progress-bar-4{
+    width: 85%;
+    background-color: #0303038e;
+}
+.progress-bar-5{
+    width: 75%;
+    background-color: #0303038e;
+}
+.progress-bar-6{
+    width: 75%;
+    background-color: #0303038e;
+}
+.progress-bar-7{
+    width: 70%;
+    background-color: #0303038e;
+}
+
+.skills_container .col-sm-9{
+    padding: 1rem;
+    box-sizing: border-box;
+}
+
+.container_three h2{
+    margin-bottom: 2rem;
+}
+.container_three h5{
+    text-align: initial;
+}
+.skills_container span{
+    display: inline-block;
+    margin-top: 1rem;
+}
+
